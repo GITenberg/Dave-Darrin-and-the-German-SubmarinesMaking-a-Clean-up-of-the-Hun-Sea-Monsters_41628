@@ -1,0 +1,31 @@
+_repo: Dave-Darrin-and-the-German-SubmarinesMaking-a-Clean-up-of-the-Hun-Sea-Monsters_41628
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41628-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2012-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships) -- Germany -- Juvenile fiction'
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Dave Darrin and the German Submarines\r\nOr, Making a Clean-up of the Hun\
+  \ Sea Monsters"
+url: http://www.gutenberg.org/ebooks/41628
